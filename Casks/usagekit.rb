@@ -1,6 +1,6 @@
 cask "usagekit" do
-  version "0.0.1"
-  sha256 "f7ce851a6c984f4da90b8ee0dce7431735e40b7a2e6108d9d2dc1813dda9c21d"
+  version "0.0.2"
+  sha256 "96b899839dd1f2c7408ed71042b6fe5dc37e9fd7eae6dd5a012f7c25d28945f8"
 
   url "https://github.com/Pribess/UsageKit/releases/download/v#{version}/UsageKit.dmg"
   name "UsageKit"
