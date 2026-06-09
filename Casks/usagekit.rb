@@ -7,7 +7,7 @@ cask "usagekit" do
   desc "Menu bar app that tracks Claude and Codex usage"
   homepage "https://github.com/Pribess/UsageKit"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "UsageKit.app"
 
